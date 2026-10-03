@@ -1,0 +1,17 @@
+node_modules/
+dist/
+playwright-report/
+test-results/
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+.sites-runtime/
+
+# Notas internas de trabajo y registros de publicación
+docs/fase-1-definicion.md
+docs/implementacion-y-validacion.md
+docs/direccion-visual.md
+docs/habilidades-diseno.md
+docs/publicacion-diseno.md
+docs/verificacion-despliegue-diseno.json
